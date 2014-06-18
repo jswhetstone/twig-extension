@@ -1,0 +1,8 @@
+{
+    "name": "jswhetstone/twig",
+    "autoload": {
+        "psr-0" : {
+            "JSW\\Twig" : "src"
+        }
+    }
+}
