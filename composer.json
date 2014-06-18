@@ -1,5 +1,6 @@
 {
     "name": "jswhetstone/twig-extension",
+    "description": "A Twig extension providing convenience methods for context-specific HTML classes.",
     "autoload": {
         "psr-0" : {
             "JSW\\Twig" : "src"
